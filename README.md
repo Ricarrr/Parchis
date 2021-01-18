@@ -37,9 +37,9 @@ El proyecto tiene:
 ## Capturas de pantalla
 Aquí dejo unas imágenes que muestran cómo es el programa:
 
-<a href="https://imgur.com/OjwXW2y"><img src="https://i.imgur.com/OjwXW2y.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/OjwXW2y"><img src="https://i.imgur.com/OjwXW2y.png" title="Pantalla Principal" /></a>
 
-<a href="https://imgur.com/VcRfaGV"><img src="https://i.imgur.com/VcRfaGV.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/VcRfaGV"><img src="https://i.imgur.com/VcRfaGV.png" title="Elección de Jugadores" /></a>
 
-<a href="https://imgur.com/mPQgY1E"><img src="https://i.imgur.com/mPQgY1E.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/mPQgY1E"><img src="https://i.imgur.com/mPQgY1E.png" title="Pantalla de Juego" /></a>
 
